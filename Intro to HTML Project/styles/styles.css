@@ -1,0 +1,9 @@
+.thumbnail{
+   width: 300px;
+   object-fit: cover;
+}
+
+.search-bar{
+    font-size: 20px;
+    margin-left: 12px;
+}
